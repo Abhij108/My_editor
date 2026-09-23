@@ -1,6 +1,9 @@
+
 # MY_Editor — Web Code Editor
 
 MY_Editor is a lightweight web-based code editor that provides a VS Code-like development experience in the browser. It uses **React + Monaco Editor** for the frontend and **FastAPI + Python** for the backend.
+
+<img width="915" height="623" alt="Screenshot From 2026-09-23 17-04-07" src="https://github.com/user-attachments/assets/d2b0e216-e7fb-4a4f-99b1-e515eee4c767" />
 
 The editor currently supports:
 
@@ -14,6 +17,11 @@ The editor currently supports:
 - Execution output and error display
 - Execution status reporting
 - FastAPI REST APIs for file management and code execution
+
+ 
+  <img width="1181" height="846" alt="Screenshot From 2026-09-23 17-05-26" src="https://github.com/user-attachments/assets/ce01c5d4-c6b1-45fc-a2fd-c693d24925cf" />
+
+
 
 ---
 
@@ -69,6 +77,9 @@ The project follows a simple client-server architecture:
 | File storage | Local filesystem | Stores files in `workspace/` |
 
 ---
+
+<img width="1912" height="841" alt="Screenshot From 2026-09-23 17-04-31" src="https://github.com/user-attachments/assets/09375bb9-f300-4f1d-82e2-8a176ade74e3" />
+
 
 # 2. Features
 
